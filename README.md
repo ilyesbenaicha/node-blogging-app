@@ -26,3 +26,5 @@ SQLite3 - Database
 CORS - Cross-origin resource sharing
 
 Body-parser - Request body parsing
+
+https://roadmap.sh/projects/blogging-platform-api
